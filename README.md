@@ -1,4 +1,7 @@
 # Trực quan hoá dữ liệu với Seaborn
+[**Chi tiết bài viết**](...)
+
+**Dưới đây là tóm tắt**
 
 ## Giới thiệu Seaborn
 + Với Analytics, cách tốt nhất để có được thông tin chi tiết là bằng cách trực quan hoá dữ liệu. Dữ liệu có thể được hình dung bằng cách biểu diễn như là các ô dễ hiểu, dễ khám phá và nắm bắt. Dữ liệu này giúp thu hút sự chú ý của các yếu tố chính.
