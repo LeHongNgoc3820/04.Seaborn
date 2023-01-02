@@ -28,3 +28,34 @@
 **Import thư viện:**
 
 `import seaborn as sns` hoặc `import seaborn as sb`
+
+## Các biểu đồ thường dùng trong Seaborn
+
+Các dạng biểu đồ được chia theo 4 nhóm như sau:
+
+**a. Frequency Distribution - Categorical Variables**
++ countplot 
++ catplot
+
+**b. Distribution of the Numerical Variable**
++ distplot(histogram)
++ kdeplot
++ boxplot
++ violinplot
+
+**c. Relationship between 2 Numerical Variables**
++ lineplot
++ scatterplot
++ relplot
++ jointplot
++ lmplot
++ heatmap
++ pairplot
++ facetgrid
+
+**d. Relationship between Numerical and Categorical Variables**
++ pointplot
++ barplot
++ boxplot
++ violinplot
++ swarmplot
