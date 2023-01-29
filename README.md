@@ -1,5 +1,5 @@
 # Trực quan hoá dữ liệu với Seaborn
-[**More Details**](https://github.com/LeHongNgoc3820/04.Seaborn/blob/main/Data_Visualization_with_Seaborn.ipynb)
+**More Details:** [Here](https://github.com/LeHongNgoc3820/04.Seaborn/blob/main/Data_Visualization_with_Seaborn.ipynb)
 
 **Dưới đây là tóm tắt lí thuyết**
 
